@@ -1,5 +1,5 @@
 [package]
-name = "day_01__trebuchet"
+name = "day_01_trebuchet"
 version = "0.1.0"
 edition = "2021"
 
@@ -8,5 +8,5 @@ edition = "2021"
 [dependencies]
 
 [[bin]]
-name = "day_01__trebuchet"
+name = "day_01_trebuchet"
 path = "main.rs"
